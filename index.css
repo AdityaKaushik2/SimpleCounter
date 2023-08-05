@@ -42,3 +42,10 @@ button{
     font-family: 'Nunito', sans-serif;
     font-size: larger;
 }
+#main-div{
+    background-color: rgb(240, 209, 209);
+    margin-left: 355px;
+    margin-right: 355px;
+    padding-bottom: 1.5%;
+    padding-top: 1.5%;
+}
